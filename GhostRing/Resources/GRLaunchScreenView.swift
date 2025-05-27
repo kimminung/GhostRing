@@ -17,11 +17,6 @@ struct GRLaunchScreenView: View {
             } else {
                 ZStack {
                     Image("GhostMainImage")
-                    /*
-                        .resizable()
-                        .scaledToFill()
-                        .ignoresSafeArea()
-                     */
                         .resizable()
                         .scaledToFit()
                         .frame(maxWidth: .infinity, maxHeight: .infinity)

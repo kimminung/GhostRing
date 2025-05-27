@@ -16,7 +16,7 @@ class GRModel: Identifiable {
     var duration: TimeInterval
     var endTime: Date?
     var memo: String?
-
+    
     init(activityName: String, date: Date, duration: TimeInterval, memo: String? = nil) {
         self.id = UUID()
         self.activityName = activityName
@@ -26,25 +26,3 @@ class GRModel: Identifiable {
         self.memo = memo
     }
 }
-
-/*
-import SwiftData
-import Foundation
-
-@Model
-class GRModel {
-    var id: UUID
-    var title: String
-    var startTime: Date
-    var endTime: Date
-    var duration: TimeInterval
-
-    init(title: String, startTime: Date, endTime: Date, duration: TimeInterval) {
-        self.id = UUID()
-        self.title = title
-        self.startTime = startTime
-        self.endTime = endTime
-        self.duration = duration
-    }
-}
-*/
