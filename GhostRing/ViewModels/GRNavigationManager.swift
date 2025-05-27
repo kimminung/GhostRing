@@ -13,6 +13,7 @@ enum ViewType: Hashable {
     case concentration
     case summary(activityName: String, duration: TimeInterval)
     case activity
+    //
 }
 
 // MARK: - Navigation
