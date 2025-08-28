@@ -63,9 +63,9 @@
 |------|------|--------|
 | 런치스크린 | 초기 화면 | <img width="1320" height="2868" alt="IMG_7450" src="https://github.com/user-attachments/assets/fd30179f-b113-46ff-b728-ac40cac97254" /> |
 | 시작버튼과 팝오버 | 집중앱 수동 시작 버튼 | <img width="1320" height="2868" alt="IMG_7451" src="https://github.com/user-attachments/assets/dd60b134-60a2-4918-974c-50a0ee911723" /> |
-| n시간 마다 트리거 발동 | 네온링 변화 디버그 | <img width="296" height="77" alt="스크린샷 2025-04-24 오후 7 56 55" src="https://github.com/user-attachments/assets/0dee2072-981c-4abd-a171-b661d804aa92" /> |
 | 집중상태 입력 전 텍스트필드 | 집중할 상태 입력 | <img width="1320" height="2868" alt="IMG_7452" src="https://github.com/user-attachments/assets/5d4164b5-fc95-44df-a69c-175442b649e6" /> |
 | 입력되면 보이지않는 시스템 시간이 경과됨에 따라 효과 | 집중상태 입력 후 네온링과 파티클 상태변화, 종료는 끝내기 | <img width="1320" height="2868" alt="IMG_7453" src="https://github.com/user-attachments/assets/778e7e71-403d-43a2-9f67-aca49190dfa9" /> |
+| n시간 마다 트리거 발동 | 네온링 변화 디버그 | <img width="296" height="77" alt="스크린샷 2025-04-24 오후 7 56 55" src="https://github.com/user-attachments/assets/0dee2072-981c-4abd-a171-b661d804aa92" /> |
 | 활동 종료와 저장 버튼 | 저장 버튼을 눌러 내가 집중한 상태들을 기록 | <img width="1320" height="2868" alt="IMG_7454" src="https://github.com/user-attachments/assets/0de0efca-fa5c-4724-8721-c1f8c59005af" /> |
 | SwiftData에 저장된 상태 기록들 | 집중상태 기록 | <img width="1320" height="2868" alt="IMG_7455" src="https://github.com/user-attachments/assets/e27df718-4a8d-4ac8-8fae-aadbe0d125d4" /> |
 
@@ -187,6 +187,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
