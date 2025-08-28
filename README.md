@@ -61,7 +61,7 @@
 
 | 기능 | 설명 | 이미지 |
 |------|------|--------|
-| 런치스크린 | 초기 화면 | ![gif](링크) |
+| 런치스크린 | 초기 화면 | <img width="1320" height="2868" alt="IMG_7450" src="https://github.com/user-attachments/assets/fd30179f-b113-46ff-b728-ac40cac97254" /> |
 
 <img width="1320" height="2868" alt="IMG_7450" src="https://github.com/user-attachments/assets/fd30179f-b113-46ff-b728-ac40cac97254" />
 
@@ -195,6 +195,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
