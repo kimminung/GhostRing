@@ -1,7 +1,8 @@
 # 👻고스트링 집중 도우미
 
-![배너 이미지 또는 로고](<img width="580" height="362" alt="스크린샷 2025-04-14 오후 9 21 40" src="https://github.com/user-attachments/assets/841c4fc0-37b1-4440-ba63-40bdd6ed9dc7" />
-)
+![배너 이미지 또는 로고]
+<img width="580" height="362" alt="스크린샷 2025-04-14 오후 9 21 40" src="https://github.com/user-attachments/assets/841c4fc0-37b1-4440-ba63-40bdd6ed9dc7" />
+
 
 > 간단한 한 줄 소개 – 프로젝트의 핵심 가치 또는 기능
 
@@ -193,6 +194,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
