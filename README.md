@@ -39,8 +39,8 @@
 
 ## 🛠 기술 스택
 
-- Swift / SwiftUI / 
-- 아키텍처: MVVM / 
+- Swift / SwiftUI / GeometryReader
+- 아키텍처: MVVM
 - 기타 도구: Figma / GitHub Projects
 
 
@@ -175,4 +175,5 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
