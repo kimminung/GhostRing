@@ -61,10 +61,11 @@
 
 | 기능 | 설명 | 이미지 |
 |------|------|--------|
-| 예시1 | 기능 요약 | ![gif](링크) |
-| 예시2 | 기능 요약 | ![gif](링크) |
+| 런치스크린 | 초기 화면 | ![gif](링크) |
+
 <img width="1320" height="2868" alt="IMG_7450" src="https://github.com/user-attachments/assets/fd30179f-b113-46ff-b728-ac40cac97254" />
 
+| 상태명을 입력할 텍스트필드 | 현재 집중상태임을 기입 | ![gif](링크) |
 <img width="1320" height="2868" alt="IMG_7451" src="https://github.com/user-attachments/assets/dd60b134-60a2-4918-974c-50a0ee911723" />
 <img width="296" height="77" alt="스크린샷 2025-04-24 오후 7 56 55" src="https://github.com/user-attachments/assets/0dee2072-981c-4abd-a171-b661d804aa92" />
 
@@ -194,6 +195,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
