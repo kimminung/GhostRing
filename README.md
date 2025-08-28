@@ -1,4 +1,4 @@
-# 👻고스트링 집중 도우미
+<img width="1090" height="850" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-04-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202 05 41" src="https://github.com/user-attachments/assets/9e651dcd-14b0-4af2-b2d8-8b581ae3bcca" /># 👻고스트링 집중 도우미
 
 ![배너 이미지 또는 로고](링크)
 
@@ -33,8 +33,8 @@
 
 
 ## 📆 프로젝트 기간
-- 전체 기간: `2025.0 - 2025.0`
-- 개발 기간: `2025.0 - 2025.0`
+- 전체 기간: `2025.03 - 2025.03`
+- 개발 기간: 2주
 
 
 ## 🛠 기술 스택
@@ -64,6 +64,7 @@
 <img width="1320" height="2868" alt="IMG_7450" src="https://github.com/user-attachments/assets/fd30179f-b113-46ff-b728-ac40cac97254" />
 
 <img width="1320" height="2868" alt="IMG_7451" src="https://github.com/user-attachments/assets/dd60b134-60a2-4918-974c-50a0ee911723" />
+<img width="296" height="77" alt="스크린샷 2025-04-24 오후 7 56 55" src="https://github.com/user-attachments/assets/0dee2072-981c-4abd-a171-b661d804aa92" />
 
 <img width="1320" height="2868" alt="IMG_7452" src="https://github.com/user-attachments/assets/5d4164b5-fc95-44df-a69c-175442b649e6" />
 
@@ -127,6 +128,9 @@
 └── README.md
 ```
 
+<img width="259" height="399" alt="스크린샷 2025-04-24 오후 5 03 51" src="https://github.com/user-attachments/assets/10bfb803-d658-4079-94b3-386961579095" />
+<img width="254" height="466" alt="스크린샷 2025-04-24 오후 6 30 23" src="https://github.com/user-attachments/assets/7ace46ea-330c-46e8-b10a-834986d9458e" />
+
 
 ## 🧑‍💻 팀 소개
 
@@ -134,6 +138,19 @@
 |------|------|--------|
 | Coulson | iOS Developer | [@kimminung](https://github.com/kimminung) |
 
+![IMG_4487 복사본](https://github.com/user-attachments/assets/ba76c02f-f961-4fd5-93d1-358361a314b5)
+![IMG_4476](https://github.com/user-attachments/assets/97d0d581-3559-4997-9ee2-13d173e2e655)
+![IMG_4498](https://github.com/user-attachments/assets/4070bbb0-4b98-40be-a736-58e54e6db105)
+
+<img width="1142" height="811" alt="스크린샷 2025-04-25 오후 12 23 14" src="https://github.com/user-attachments/assets/cead83a5-764a-4838-b1a6-56fb49383267" />
+<img width="1080" height="696" alt="스크린샷 2025-04-24 오후 5 13 18" src="https://github.com/user-attachments/assets/fd5c325d-c767-4963-8f4e-62ee0c0dbd40" />
+<img width="940" height="486" alt="스크린샷 2025-04-18 오전 12 18 43" src="https://github.com/user-attachments/assets/2cfe469b-2dc1-447f-a333-0380c2c19d5d" />
+<img width="1477" height="832" alt="스크린샷 2025-04-18 오전 12 19 17" src="https://github.com/user-attachments/assets/35da963e-05b6-449d-b1fb-a6af14c8136b" />
+<img width="1621" height="890" alt="스크린샷 2025-04-18 오전 12 19 37" src="https://github.com/user-attachments/assets/3dc12c16-7355-4ac7-9d32-2a62c1df76bc" />
+<img width="472" height="910" alt="스크린샷 2025-04-18 오전 12 18 33" src="https://github.com/user-attachments/assets/8bd7409c-bef6-43b9-8ff6-6bf9153b405a" />
+
+
+<img width="1090" height="850" alt="%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-04-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202 05 41" src="https://github.com/user-attachments/assets/0cfdd885-5c31-40aa-9947-dd374db13106" />
 [🔗 피그마 링크](https://www.figma.com/design/cBztShnflZFK5gVXFBdrcQ/고링1?m=draw)
 
 ## 🔖 브랜치 전략
@@ -175,6 +192,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
