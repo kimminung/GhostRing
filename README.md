@@ -125,15 +125,6 @@
 │           └── xcschemes
 │               └── xcschememanagement.plist
 └── README.md
-
-📦ProjectName
-┣ 📂Feature
-┃ ┣ 📂SceneA
-┃ ┗ 📂SceneB
-┣ 📂Core
-┣ 📂UI
-┣ 📂Test
-┗ 📂Resources
 ```
 
 
@@ -141,10 +132,9 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 홍길동 | iOS Developer | [@hong](https://github.com/hong) |
-| 김개발 | PM | [@devkim](https://github.com/devkim) |
+| Coulson | iOS Developer | [@kimminung](https://github.com/kimminung) |
 
-[🔗 팀 블로그 / 미디엄 링크](https://medium.com/example)
+[🔗 피그마 링크](https://www.figma.com/design/cBztShnflZFK5gVXFBdrcQ/고링1?m=draw)
 
 ## 🔖 브랜치 전략
 `(예시)`
@@ -185,3 +175,4 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
