@@ -29,7 +29,7 @@
 
 > 집중하고있는 작업 상태를 나타내고, 나만의 시간을 갖는다
 
-[🔗 앱스토어/웹 링크](https://example.com)
+[🔗 앱스토어/웹 링크](https://apps.apple.com/kr/app/ghostring/id6747936294)
 
 
 ## 📆 프로젝트 기간
@@ -175,5 +175,6 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
