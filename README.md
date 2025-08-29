@@ -66,7 +66,7 @@
 | n시간 마다 트리거 발동 | 네온링 변화 디버그 | <img width="296" height="77" alt="스크린샷 2025-04-24 오후 7 56 55" src="https://github.com/user-attachments/assets/0dee2072-981c-4abd-a171-b661d804aa92" /> |
 | 활동 종료와 저장 버튼 | 저장 버튼을 눌러 내가 집중한 상태들을 기록 | <img width="1320" height="2868" alt="IMG_7454" src="https://github.com/user-attachments/assets/0de0efca-fa5c-4724-8721-c1f8c59005af" /> |
 | SwiftData에 저장된 상태 기록들 | 집중상태 기록 | <img width="1320" height="2868" alt="IMG_7455" src="https://github.com/user-attachments/assets/e27df718-4a8d-4ac8-8fae-aadbe0d125d4" /> |
-| 키노트 | 키노트 자료 | ![gif] (https://github.com/user-attachments/assets/7bf4175f-2743-417f-b2ff-f4b751735833) |
+| 키노트 | 키노트 자료 | ![gif](https://github.com/user-attachments/assets/58becf7f-2966-41da-ab77-6d493da4cfea) |
 
 
 ## 🧱 폴더 구조
@@ -187,6 +187,7 @@ git clone https://github.com/yourteam/project.git
 ## 📝 License
 
 This project is licensed under the ~~[CHOOSE A LICENSE](https://choosealicense.com). and update this line~~
+
 
 
 
